@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: lerntagebuch.github.io/quartz
+  baseUrl: kjdewald.github.io/LerntagebuchITStrategy
   ignorePatterns:
     - private
     - templates
