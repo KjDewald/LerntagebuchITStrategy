@@ -1,6 +1,6 @@
 ### What did I do?
 
-Again, as with other presentations - the topic name is so broad that I did not have an idea of what to search for - especially without AI.
+Again, as with other presentations - the topic name is so broad that I did not have an idea of what to search for.
 
 ### What did I learn?
 
