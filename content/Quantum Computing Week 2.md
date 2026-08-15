@@ -1,4 +1,3 @@
-#Lerntagebuch
 
 ### What did I do?
 
