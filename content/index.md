@@ -2,10 +2,11 @@
 title: Welcome to the Learning Diary
 ---
 
-This is my learning diary for the IT Strategy course. As mentioned in my feedback for the course I think it is always a good idea to recognize and document links between topics to get a better overview of the complete picture. 
+This is my learning diary for the IT Strategy course. As I mentioned in my feedback for the course, I believe it is worthwhile to recognize and document the links between topics, as this helps build a more complete picture of the material as a whole.
 
-This website was build using Obsidian as a note taking app. Obsidian enables links between individual entries to keep track of interconnections. Through the graph view on the right, the different interconnetctions can be viewed. By clicking on a node you access the corresponding learning diary entry, by clicking on links within an entry you move to the corresponding node. 
+This website was built using Obsidian, a note-taking application that allows links between individual entries, making it possible to trace these interconnections. The graph view on the right visualizes these connections: clicking on a node takes you to the corresponding learning diary entry, while clicking on a link within an entry takes you directly to the node it references.
 
+Feel free to explore by clicking through any of the linked entries below:
 Try it out by going to any of the linked entries:
 
 ## Week 1
