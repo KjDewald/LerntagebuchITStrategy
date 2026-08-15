@@ -24,7 +24,7 @@ Try it out by going to any of the linked entries:
 ## Week 3 
 [[Physical AI Week 3|Physical AI]]
 
-[[IT Commodity or Competitive Advantage Week 3|IT Commodity or Competitive Advantage]]
+[[IT Commodity or Competitive Advantage Week  3|IT Commodity or Competitive Advantage]]
 
 [[Digitalization, Automation and IT Strategy Week 3|Digitalization, Automation and IT Strategy]]
 
