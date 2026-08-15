@@ -10,33 +10,37 @@ Feel free to explore by clicking through any of the linked entries below:
 Try it out by going to any of the linked entries:
 
 ## Week 1
-[[Digital Provenance Week 1]]
+[[Digital Provenance Week 1|Digital Provenance]]
 
-[[Self Driving Vehicles Week 1]]
+[[Self Driving Vehicles Week 1|Self Driving Vehicles]]
+
 ## Week 2
-[[Quantum Computing Week 2]]
+[[Quantum Computing Week 2|Quantum Computing]]
 
-[[Computer Vision & AI Week 2]]
+[[Computer Vision & AI Week 2|Computer Vision & AI]]
 
-[[Domain Specific Language Models Week 2]]
+[[Domain Specific Language Models Week 2|Domain Specific Language Models]]
+
 ## Week 3 
-[[Physical AI Week 3]]
+[[Physical AI Week 3|Physical AI]]
 
-[[IT Commodity or Competitive Advantage Week 3]]
+[[IT Commodity or Competitive Advantage Week 3|IT Commodity or Competitive Advantage]]
 
-[[Digitalization, Automation and IT Strategy Week 3]]
+[[Digitalization, Automation and IT Strategy Week 3|Digitalization, Automation and IT Strategy]]
+
 ## Week 4
-[[Multiagent Systems Week 4]]
+[[Multiagent Systems Week 4|Multiagent Systems]]
 
-[[Preemptive Cybersecurity Week 4]]
+[[Preemptive Cybersecurity Week 4|Preemptive Cybersecurity]]
 
-[[Changing meaning of IT over time in companies Week 4]]
+[[Changing meaning of IT over time in companies Week 4|Changing meaning of IT over time in companies]]
+
 ## Week 5
-[[Shadow IT Week 5]]
+[[Shadow IT Week 5|Shadow IT]]
 
-[[Future Role of the IT Department Week 5]]
+[[Future Role of the IT Department Week 5|Future Role of the IT Department]]
 
-[[Driving Factors of Digitalization Week 5]]
+[[Driving Factors of Digitalization Week 5|Driving Factors of Digitalization]]
 
 
 
