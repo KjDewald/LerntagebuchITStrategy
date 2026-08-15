@@ -2,7 +2,7 @@
 
 ### What did I do?
 
-Between the presentations of [[IT Commodity or Competitive Advantage Week 3|Commodity vs Competitive Advantage]], [[Digitalization, Automation and IT Strategy Week 3|Digitalization, Automation and IT Strategy]], as well as [[Changing meaning of IT over time in companies Week 4|Changing meaning of IT over time]], I gathered enough to be fairly prepared for this presentation.  
+Between the presentations of [[IT Commodity or Competitive Advantage Week  3|Commodity vs Competitive Advantage]], [[Digitalization, Automation and IT Strategy Week 3|Digitalization, Automation and IT Strategy]], as well as [[Changing meaning of IT over time in companies Week 4|Changing meaning of IT over time]], I gathered enough to be fairly prepared for this presentation.  
 Given the rise of AI, I can understand why this question warrants an answer, however I am very sceptical, if an answer can actually be given that goes beyond mere speculation or guesstimating. Especially considering the possible effects of a trough of disappointment being entered in the next few years regarding the use of [[Multiagent Systems Week 4|MASs]].
 
 ### What did I learn?
